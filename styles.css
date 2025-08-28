@@ -37,6 +37,7 @@ a:hover {
 
 #QuoteBTN {
     background-color: darkgreen;
+    border: none;
     color: white;
     
 }
