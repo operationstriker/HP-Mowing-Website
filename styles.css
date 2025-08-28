@@ -13,9 +13,7 @@ nav {
     position: relative;
     background-color: rgb(22, 172, 22);
     height: 10vh; 
-    /* height: 15vh */
     margin: 0px;
-    
 }
 
 a {
@@ -37,3 +35,7 @@ a:hover {
     margin: 0px;
 }
 
+#QuoteBTN {
+    background-color: darkgreen;
+    
+}
