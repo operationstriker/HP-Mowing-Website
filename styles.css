@@ -11,7 +11,7 @@ body {
 
 nav {
     position: relative;
-    background-color: rgb(22, 172, 22);
+    background-color: rgb(255, 255, 255);
     height: 10vh; 
     margin: 0px;
 }
@@ -21,13 +21,13 @@ a {
     font-family: Arial;
     font-size: 20px;
     margin-right: 10px;
-    color: white;
+    color: black;
     font-weight: bold;
     margin-bottom: 0px;
 }
 
 a:hover {
-    color:rgb(15, 105, 15)
+    color:rgb(10, 164, 10)
 }
 
 #Image {
@@ -36,6 +36,8 @@ a:hover {
 }
 
 #QuoteBTN {
+    position: relative;
+    bottom: 45vh;
     background-color: darkgreen;
     height: 5vh;
     width: 15vw;
