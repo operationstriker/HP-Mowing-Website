@@ -17,6 +17,9 @@ nav {
 }
 
 a {
+    position: relative;
+    top: 20%;
+    left: 50%;
     text-decoration: none;
     font-family: Arial;
     font-size: 20px;
