@@ -18,7 +18,7 @@ nav {
 
 a {
     position: relative;
-    bottom: 95vh;
+    bottom: 80vh;
     left: 45%;
     text-decoration: none;
     font-family: Arial;
@@ -42,12 +42,38 @@ a:hover {
     position: relative;
     left: 40%;
     bottom: 65vh;
-    background-color: rgb(0, 182, 0);
+    background-color: transparent;
+    border: 2px solid rgb(0, 182, 0);
     height: 7vh;
     width: 15vw;
-    border: none;
+    /* border: none; */
     color: white;
     cursor: pointer;
     border-radius: 20px;
     font-size: 20px;
 }
+
+/* 
+Landscaping & Lawn Care Ipswich
+
+Landscaping & Garden Maintenance Ipswich
+
+Landscaping & Outdoor Solutions Ipswich
+
+Landscaping & Yard Care Ipswich
+
+Landscaping & Property Maintenance Ipswich
+
+Landscaping & Groundskeeping Services Ipswich
+
+Landscaping & Garden Care Ipswich
+
+Landscaping & Lawn Management Ipswich
+
+Landscaping & Outdoor Maintenance Ipswich
+
+Landscaping & Green Space Services Ipswich
+https://demo.templatemonster.com/demo/62024.html
+https://preview.themeforest.net/item/gardon-landscaping-gardening-elementor-template-kit/full_screen_preview/49593227
+https://preview.themeforest.net/item/greenscape-lawn-garden-landscaping-wordpress-theme/full_screen_preview/19930059
+ */
