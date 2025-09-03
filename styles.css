@@ -36,6 +36,7 @@ a:hover {
 #Image {
     width: 100%;
     margin: 0px;
+    height: 100vh;
 }
 
 #QuoteBTN {
