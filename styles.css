@@ -14,11 +14,12 @@ nav {
     height: 10vh; 
     margin: 0px;
     bottom: 120vh;
-    width: 70%;
+    width: 65%;
 }
 
 a {
     position: relative;
+    top: 30%;
     text-align: center;
     text-decoration: none;
     font-family: Arial;
