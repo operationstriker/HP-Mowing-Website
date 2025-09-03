@@ -48,7 +48,6 @@ a:hover {
     border: 4px solid rgb(12, 143, 0);
     height: 7vh;
     width: 15vw;
-    /* border: none; */
     color: white;
     cursor: pointer;
     font-size: 20px;
@@ -68,13 +67,14 @@ a:hover {
     border: 4px solid rgb(255, 255, 255);
     height: 7vh;
     width: 15vw;
-    /* border: none; */
     color: white;
     cursor: pointer;
     font-size: 20px;
         font-weight: 580;
     /* border: 4px solid rgb(0, 182, 0); */
 }
+
+
 
 /* 
 https://preview.themeforest.net/item/greenscape-lawn-garden-landscaping-wordpress-theme/full_screen_preview/19930059
