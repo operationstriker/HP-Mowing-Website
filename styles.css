@@ -1,7 +1,6 @@
 body {
     overflow-x: hidden;
     margin: 0;
-    padding: 0;
 }
 
 * {
@@ -34,7 +33,7 @@ a:hover {
 }
 
 #Image {
-    width: 100%;
+    width: 100vw;
     margin: 0px;
     height: 100vh;
 }
@@ -72,25 +71,13 @@ a:hover {
 }
 
 /* 
-Landscaping & Lawn Care Ipswich
+https://preview.themeforest.net/item/greenscape-lawn-garden-landscaping-wordpress-theme/full_screen_preview/19930059
+http://preview.themeforest.net/item/gnome-lawn-garden-care-services-elementor-template-kit/full_screen_preview/31162918
+https://preview.themeforest.net/item/bagan-lawn-garden-landscaping-html-template/full_screen_preview/22196086
+https://preview.themeforest.net/item/green-thumb-gardening-landscaping-theme/full_screen_preview/20860747
+https://preview.themeforest.net/item/gardena-wordpress-theme-for-landscaping-gardening/full_screen_preview/24971203
+https://preview.themeforest.net/item/landscaping-wordpress-theme-landscaping-wp/full_screen_preview/16210005
 
-Landscaping & Garden Maintenance Ipswich
-
-Landscaping & Outdoor Solutions Ipswich
-
-Landscaping & Yard Care Ipswich
-
-Landscaping & Property Maintenance Ipswich
-
-Landscaping & Groundskeeping Services Ipswich
-
-Landscaping & Garden Care Ipswich
-
-Landscaping & Lawn Management Ipswich
-
-Landscaping & Outdoor Maintenance Ipswich
-
-Landscaping & Green Space Services Ipswich
 https://demo.templatemonster.com/demo/62024.html
 https://preview.themeforest.net/item/gardon-landscaping-gardening-elementor-template-kit/full_screen_preview/49593227
 https://preview.themeforest.net/item/greenscape-lawn-garden-landscaping-wordpress-theme/full_screen_preview/19930059
