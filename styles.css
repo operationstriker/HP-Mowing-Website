@@ -10,14 +10,13 @@ body {
 
 nav {
     position: relative;
-    background-color: rgb(255, 255, 255);
+    background-color: transparent;
     height: 10vh; 
     margin: 0px;
 }
 
 a {
     position: relative;
-    bottom: 97vh;
     left: 48%;
     text-decoration: none;
     font-family: Arial;
@@ -41,7 +40,7 @@ a:hover {
 #AboutBTN {
        position: relative;
     left: 35%;
-    bottom: 65vh;
+    bottom: 60vh;
     background-color: rgb(12, 143, 0);
     border: 4px solid rgb(12, 143, 0);
     height: 7vh;
@@ -57,7 +56,7 @@ a:hover {
 #QuoteBTN {
     position: relative;
     left: 37%;
-    bottom: 65vh;
+    bottom: 60vh;
     background-color: transparent;
     border: 4px solid rgb(255, 255, 255);
     height: 7vh;
