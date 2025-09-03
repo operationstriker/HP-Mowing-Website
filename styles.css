@@ -13,8 +13,9 @@ nav {
     background-color: transparent;
     height: 10vh; 
     margin: 0px;
-    bottom: 120vh;
+    bottom: 123vh;
     width: 65%;
+    left: 50%;
 }
 
 a {
